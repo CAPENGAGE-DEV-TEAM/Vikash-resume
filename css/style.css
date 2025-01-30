@@ -9543,6 +9543,11 @@ textarea.form-control {
   -ms-transform: translateY(-50%);
   transform: translateY(-50%); }
 
+  .hero-wrap {
+    margin-top: -70px; /* Adjust the value as needed */
+}
+
+
 .sidebar-box {
   margin-bottom: 30px;
   padding: 25px;
